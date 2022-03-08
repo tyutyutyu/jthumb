@@ -24,7 +24,7 @@
         <junit.version>5.8.2</junit.version>
         <log4j2.version>2.17.1</log4j2.version>
         <lombok.version>1.18.22</lombok.version>
-        <spotbugs.version>4.5.3</spotbugs.version>
+        <spotbugs.version>4.6.0</spotbugs.version>
     </properties>
 
     <dependencies>
