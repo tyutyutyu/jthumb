@@ -22,7 +22,7 @@
         <assertj.version>3.23.1</assertj.version>
         <jackson.version>2.13.4</jackson.version>
         <junit.version>5.9.0</junit.version>
-        <log4j2.version>2.18.0</log4j2.version>
+        <log4j2.version>2.19.0</log4j2.version>
         <lombok.version>1.18.24</lombok.version>
         <spotbugs.version>4.7.2</spotbugs.version>
     </properties>
